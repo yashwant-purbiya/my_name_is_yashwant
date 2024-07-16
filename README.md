@@ -1,2 +1,2 @@
-# my_name_is_yashwant
-This is my first repository
+# It is my first repository
+I'm fresher for github
